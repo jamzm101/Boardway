@@ -2,3 +2,17 @@ body
 {
   text-align: center;
 }
+
+.banner
+{
+background-color: blue;
+color: white;
+}
+
+
+h6
+{
+  background-color: gray;
+  color: white;
+  text-align: left;
+}
