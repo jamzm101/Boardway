@@ -65,7 +65,10 @@ font-weight: bold;
 color: white;
 }
 
-
+.btn-nav {
+  font-size: 18px;
+  color: white;
+}
 
 
 .footer
